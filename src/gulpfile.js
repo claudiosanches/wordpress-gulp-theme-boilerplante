@@ -5,7 +5,7 @@ var gulp = require( 'gulp' ),
 	jshint = require( 'gulp-jshint' ),
 	uglify = require( 'gulp-uglify' ),
 	sass = require( 'gulp-sass' ),
-	imagemin = require('gulp-imagemin');
+	imagemin = require( 'gulp-imagemin' );
 
 // Sets assets folders.
 var dirs = {
